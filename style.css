@@ -3,7 +3,6 @@ html {
 }
 
 body {
-    font-size: 'Roboto Slab', serif;
     font-size: 1.6rem;
     line-height: 1.5;
     text-align: center;
@@ -24,6 +23,8 @@ h2 {
 
 h3 {
     font-size: 1.3em;
+    text-align: center;
+    margin-top: 4rem;
 }
 
 a {
@@ -32,4 +33,38 @@ a {
 
 a:hover {
     color: #9cb90d;
+}
+
+#main {
+    padding-left: 15em;
+    padding-right: 15em;
+    border-radius: 15px;
+}
+
+img {
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 5rem;
+}
+
+#img-div {
+    padding: 10px;
+    margin: 0;
+}
+
+#img-caption {
+    margin: 15px 0 5px 0;
+}
+
+ul {
+    max-width: 900px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+li {
+    list-style-type: circle;
+    margin-bottom: 1rem;
 }
