@@ -163,7 +163,6 @@ blockquote {
     }
 }
 
-/* 460px  */
 @media (max-width: 460px) {
     h1 {
         font-size: 3.5rem;
