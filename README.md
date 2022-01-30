@@ -25,7 +25,7 @@
     in img-div.
 ***
 
-#### *User Story #6* 
+#### *User Story #6* ✅
     I should see an element with a corresponding id="tribute-info", which contains 
     textual content describing the subject of the tribute page.
 ***
