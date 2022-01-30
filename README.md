@@ -30,7 +30,7 @@
     textual content describing the subject of the tribute page.
 ***
 
-#### *User Story #7*
+#### *User Story #7* ✅
     I should see an a element with a corresponding id="tribute-link", which links to 
     an outside site that contains additional information about the subject of the tribute page. 
     HINT: You must give your element an attribute of target and set it to _blank in order for your 
