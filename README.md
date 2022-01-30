@@ -37,7 +37,7 @@
     link to open in a new tab (i.e. target="_blank").
 ***
 
-#### *User Story #8* 
+#### *User Story #8* ✅
     The img element should responsively resize, relative to the width of its parent element, 
     without exceeding its original size.
 ***
