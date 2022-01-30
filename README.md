@@ -11,7 +11,7 @@
     (e.g. "Dr. Norman Borlaug").
 ***
 
-#### *User Story #3* 
+#### *User Story #3* ✅
     I should see either a figure or a div element with a corresponding id="img-div".
 ***
 
