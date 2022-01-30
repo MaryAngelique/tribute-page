@@ -19,7 +19,7 @@
     Within the img-div element, I should see an img element with a corresponding id="image".
 ***
 
-#### *User Story #5* 
+#### *User Story #5* ✅
     Within the img-div element, I should see an element with a corresponding 
     id="img-caption" that contains textual content describing the image shown 
     in img-div.
