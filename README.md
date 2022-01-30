@@ -15,7 +15,7 @@
     I should see either a figure or a div element with a corresponding id="img-div".
 ***
 
-#### *User Story #4*
+#### *User Story #4* ✅
     Within the img-div element, I should see an img element with a corresponding id="image".
 ***
 
