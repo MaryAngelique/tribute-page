@@ -42,5 +42,5 @@
     without exceeding its original size.
 ***
 
-#### *User Story #9* 
+#### *User Story #9* ✅
     The img element should be centered within its parent element.
